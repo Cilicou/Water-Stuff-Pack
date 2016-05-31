@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Fountains &amp; Jets</ModName>
+  <ModDiscription>A group of watery stuff to add a splash to your park.</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Fountains &amp; Jets@fountain_4x4</OBJName>
+      <Type>deco</Type>
+      <inGameName>Big Fountain</inGameName>
+      <price>50</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Fountains/Base</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Specular</shader>
+      <Color1>808080</Color1>
+      <Color2>B4B4B4</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@fountain_4x4_water</OBJName>
+      <Type>deco</Type>
+      <inGameName>Big Fountain Water</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Fountains/Water</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@fountain_small_base</OBJName>
+      <Type>deco</Type>
+      <inGameName>Small Fountain</inGameName>
+      <price>25</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Fountains/Base</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>true</recolorable>
+      <shader>Specular</shader>
+      <Color1>7F7F7F</Color1>
+      <Color2>B4B4B4</Color2>
+      <Color3>1C0FFF</Color3>
+      <Color4>FF00FF</Color4>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@fountain_small_water</OBJName>
+      <Type>deco</Type>
+      <inGameName>Small Fountain Water</inGameName>
+      <price>0</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Fountains/Water</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@water_wall</OBJName>
+      <Type>deco</Type>
+      <inGameName>Water Wall</inGameName>
+      <price>10</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Normal</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@tile_jet</OBJName>
+      <Type>deco</Type>
+      <inGameName>Tile Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Normal</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@path_fountain</OBJName>
+      <Type>deco</Type>
+      <inGameName>Path Jets</inGameName>
+      <price>10</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Normal</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@jet_small</OBJName>
+      <Type>deco</Type>
+      <inGameName>Small Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Normal</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@jet_medium</OBJName>
+      <Type>deco</Type>
+      <inGameName>Medium Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Normal</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@jet_big</OBJName>
+      <Type>deco</Type>
+      <inGameName>Big Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Normal</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@angle_jet_small</OBJName>
+      <Type>deco</Type>
+      <inGameName>Small Angled Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Angled</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@angle_jet_medium</OBJName>
+      <Type>deco</Type>
+      <inGameName>Medium Angled Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Angled</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@angle_jet_large</OBJName>
+      <Type>deco</Type>
+      <inGameName>Large Angled Jet</inGameName>
+      <price>5</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Angled</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@water_wall_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Water Wall Intermittent</inGameName>
+      <price>12</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@tile_jet_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Tile Jet</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@jet_small_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Small Jet Intermittent</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@jet_medium_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Medium Jet Intermittent</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@jet_big_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Big Jet Intermittent</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@angle_jet_small_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Small Angled Jet Intermittent</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@angle_jet_medium_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Medium Angled Jet Intermittent</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Fountains &amp; Jets@angle_jet_large_switch</OBJName>
+      <Type>deco</Type>
+      <inGameName>Large Angled Jet Intermittent</inGameName>
+      <price>7</price>
+      <grid>false</grid>
+      <snapCenter>false</snapCenter>
+      <category>Jets/Intermittent</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>2</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+  </Objects>
+</Mod>

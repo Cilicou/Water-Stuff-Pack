@@ -1,0 +1,36 @@
+[16-05-30 23:38:39] Info: Compiling Fountains & Jets to bin/build-160530233839602.dll...
+[16-05-30 23:38:39] Info: Compiling from `ModSparkLoader.csproj`.
+[16-05-30 23:38:39] Info: Resolved assembly reference `Assembly-CSharp` to `d:/programs files/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\Assembly-CSharp.dll`
+[16-05-30 23:38:39] Info: IGNORING assembly reference `Depender`
+[16-05-30 23:38:39] Info: Resolved assembly reference `System` to `System.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `UnityEngine` to `d:/programs files/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.dll`
+[16-05-30 23:38:39] Info: Resolved assembly reference `UnityEngine.UI` to `d:/programs files/steam\SteamApps\common\Parkitect\Parkitect_Data\Managed\UnityEngine.UI.dll`
+[16-05-30 23:38:39] Info: Source files: ModSparkLoader\FlatRideLoader.cs, ModSparkLoader\Main.cs, ModSparkLoader\ModLoader.cs from `C:\Users\Cilicou\Documents\Parkitect\pnmods\Fountains & Jets`.
+[16-05-30 23:38:39] Info: Compile using compiler version v3.5.
+[16-05-30 23:38:53] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:38:53] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:48:09] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:48:09] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:48:52] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:48:52] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:49:37] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:49:37] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:49:43] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:49:43] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:50:36] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:50:36] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:51:11] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:51:11] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-30 23:52:16] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-30 23:52:16] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-31 00:06:38] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-31 00:06:38] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-31 00:20:55] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-31 00:20:55] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
+[16-05-31 00:33:52] Info: Loaded build-160530233839602, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-05-31 00:33:52] Info: Sucessfully registered Custom_Scenery.Main to the mod manager.
